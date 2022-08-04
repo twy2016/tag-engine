@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  run_mod: debug
+db:
+  host: 127.0.0.1
+  port: 3306
+  name: cm_tag_engine
+  username: root
+  password: root
